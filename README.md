@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hatim-Rx53
 - 👀 I’m interested in python programming and cyber security.
-- 🌱 I’m currently learning C , C++.
+- 🌱 I’m currently learning Python, C, C++.
 - 💞️ I’m looking to collaborate on my python projects.
 - 📫 How to reach me - you can mail me.
 - 😄 Pronouns: He/Him.
